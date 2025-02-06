@@ -1,0 +1,1 @@
+Integrate role management for rollback (minor) - Implemented a new feature to enhance role management.
