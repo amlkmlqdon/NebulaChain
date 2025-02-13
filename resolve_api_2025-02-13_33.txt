@@ -1,0 +1,1 @@
+Resolve API response for scalability (quick) - Implemented a new feature to enhance API response.
