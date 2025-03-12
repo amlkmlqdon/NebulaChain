@@ -1,0 +1,1 @@
+Integrate payment gateway for response (quick) - Implemented a new feature to enhance payment gateway.
