@@ -1,0 +1,1 @@
+Add email verification for service (urgent) - Implemented a new feature to enhance email verification.
