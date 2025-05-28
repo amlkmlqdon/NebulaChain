@@ -1,0 +1,1 @@
+Deploy user input for synchronization (legacy) - Implemented a new feature to enhance user input.
