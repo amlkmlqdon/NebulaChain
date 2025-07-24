@@ -1,0 +1,1 @@
+Integrate role management for integration (major) - Implemented a new feature to enhance role management.
