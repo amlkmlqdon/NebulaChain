@@ -1,0 +1,1 @@
+Remove build pipeline for rollback (simplified) - Implemented a new feature to enhance build pipeline.
