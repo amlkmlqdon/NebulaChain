@@ -1,0 +1,1 @@
+Support session timeout for UI (simplified) - Implemented a new feature to enhance session timeout.
