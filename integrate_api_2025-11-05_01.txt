@@ -1,0 +1,1 @@
+Integrate API response for synchronization (easy)
