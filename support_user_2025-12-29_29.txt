@@ -1,0 +1,1 @@
+Support user authentication for performance (major) - Implemented a new feature to enhance user authentication.
