@@ -1,0 +1,1 @@
+Add build pipeline for client (major) - Implemented a new feature to enhance build pipeline.
