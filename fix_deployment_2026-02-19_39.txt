@@ -1,0 +1,1 @@
+Fix deployment process for endpoint (major) - Implemented a new feature to enhance deployment process.
